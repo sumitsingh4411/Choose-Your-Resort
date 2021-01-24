@@ -1,3 +1,18 @@
+# Chose your Resort
+### [Live Site](https://beachresortz.herokuapp.com/)
+
+![netflix](https://i.ibb.co/DGnT8kK/Capture5.png)
+![netflix](https://i.ibb.co/rGZ970g/Capture6.png)
+![netflix](https://i.ibb.co/cySn08G/Capture7.png)
+
+## Introduction
+This is a code repository for the corresponding choose your resort. 
+
+In this repository, we're going to build a fully functional chose your resort application using reactjs. 
+
+While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,API fetching with axios,  material ui and many more.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +83,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
